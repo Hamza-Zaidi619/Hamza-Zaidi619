@@ -1,4 +1,6 @@
+## Hey there, I am Hamza 👋 .
 
+<h3> 👨🏻‍💻 About Me </h3>
 
 - 👋 I'm Hamza , A passionate MERN STACK DEVELOPER.
 - 👀 I’m interested in JavaScript/ES6, React JS and AnyThing related to it
