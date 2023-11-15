@@ -1,10 +1,5 @@
 ### Hi there  👋 I'm Hamza , A passioate MERN STACK DEVELOPER.
 
-
-<!--
-**Hamza-Zaidi619/Hamza-Zaidi619** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 - 👋 I'm Hamza , A passioate MERN STACK DEVELOPER.
 - 👀 I’m interested in JavaScript/ES6, React JS and AnyThing related to it
 - 🔭 I’m currently working on Javascript, React js.
@@ -26,4 +21,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
