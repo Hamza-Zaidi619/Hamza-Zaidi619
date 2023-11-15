@@ -1,12 +1,12 @@
-### Hi there  👋 I'm Hamza , A passioate MERN STACK DEVELOPER.
 
-- 👋 I'm Hamza , A passioate MERN STACK DEVELOPER.
+
+- 👋 I'm Hamza , A passionate MERN STACK DEVELOPER.
 - 👀 I’m interested in JavaScript/ES6, React JS and AnyThing related to it
 - 🔭 I’m currently working on Javascript, React js.
 - 🌱 I’m currently learning Nodejs , Postman & REACT NATIVE
 - 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
 - 👯 I’m looking to collaborate on anyThing related to JavaScript,React js and will try my best to give the best result.
-- 🌱 &nbsp; Enthusiast in full-Stack and Artificial Intelligence .
+- 🌱 &nbsp; Enthusiast in full-Stack.
 - ✍️ &nbsp; Watching universe and trying out latest design trends as hobbies/side hustles.
 - 😴 &nbsp; I belive, a perfect nap can be the ultimate solution for any stress.
 
