@@ -1,4 +1,4 @@
-## Hey there, I am Hamza 👋 .
+<h1>## Hey there, I am Hamza 👋 .</h1>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
