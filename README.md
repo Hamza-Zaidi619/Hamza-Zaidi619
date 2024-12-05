@@ -16,7 +16,8 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; JavaScript | React | C++ |MERN  
-- 🌐 &nbsp; Full-Stack | React | HTML | CSS | JavaScript | Bootstrap | Material UI| 
+- 🌐 &nbsp; Full-Stack | React | HTML | ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+| JavaScript | Bootstrap | Material UI| 
 - 🛢 &nbsp; Firebase.
 - 🔧 &nbsp; Visual Studio code 
 - 💬 Ask me about anything related to Front end Development.
