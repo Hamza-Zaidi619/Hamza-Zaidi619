@@ -14,8 +14,9 @@
 
 
 <h1>💻 Tech Stack</h1>
-
-  &nbsp; <p align="center">
+ <p align="center">
+ 
+<p align="center">
   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -37,7 +38,6 @@
   ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white)
   ![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 </p>
-
 - 🔧 &nbsp; Visual Studio code 
 - 💬 Ask me about anything related to Front end Development.
 
